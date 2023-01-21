@@ -12,7 +12,7 @@ Console.Write("Введите число:  ");
 string numberStr = Console.ReadLine();
 int number = Convert.ToInt32(numberStr);
 return number;
-}
+} 
 
 if (a % b == 0)
 {
